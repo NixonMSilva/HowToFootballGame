@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KeeperARG
+  m_Controller: {fileID: 9100000, guid: cb7fb9bbfddee4a4e8b62779af4fc984, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c0e0307ea9b0f8f46828b91e09c93055, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9f32bb17f02e9c947982aec2d8c577f0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ca5c187cc3b004949aab702170abc82b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 70028d74358d1844a862f31e1275f416, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b9448ee6a27833a43977c2fa513a4311, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1660d3bac45bded4b9cee8ac3b28ac95, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a582389616409b1428d5862484358d38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 050cb9f1875e119478f496adea118310, type: 2}
